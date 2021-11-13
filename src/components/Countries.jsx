@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import axios from "axios";
+// import axios from "axios";
 import "./Countries.css";
 import { Link } from "react-router-dom";
 import "aos/dist/aos.css";
