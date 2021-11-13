@@ -1,0 +1,7 @@
+.cursor {
+  width: 10px;
+  height: 10px;
+  background-color: rgb(242, 234, 248);
+  position: fixed;
+  border-radius: 50%;
+}
